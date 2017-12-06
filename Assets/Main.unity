@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 9991b6265f7f87d43b7e3c676739f203, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.45037973, g: 0.5003939, b: 0.57525116, a: 1}
+  m_IndirectSpecularColor: {r: 0.7543821, g: 0.69309694, b: 0.4156442, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -220,7 +220,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 58479c4b1e7fbec489650179ed19f798, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.4656857
+      value: -1.656
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 58479c4b1e7fbec489650179ed19f798, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4943,7 +4943,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 345445376}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 508.5, y: 152, z: 0}
+  m_LocalPosition: {x: 516.5, y: 155, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 843344476}
@@ -5855,7 +5855,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: 0a3041dcda597954782f48ac8a97bf33, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 44.444
+      value: 44.766
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0a3041dcda597954782f48ac8a97bf33, type: 3}
       propertyPath: m_LocalPosition.y
@@ -7863,9 +7863,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Well done! \nYou have find a safe place, the people here warmly welcome
-    you!\nThe girls are happy about the idea to stay there.\nAnd the peoples here
-    invite you to stay as long as you wish!\nCongratulations! \n\nYou Won !"
+  m_Text: "Well done! \nYou have find a safe place, people here warmly welcome you!\nThe
+    girls are happy about the idea of staying in here.\nAnd people invite you to stay
+    as long as you wish !\nCongratulations! \n\nYou Won !"
 --- !u!222 &511879136
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -9238,7 +9238,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: 0a3041dcda597954782f48ac8a97bf33, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 45.238003
+      value: 45.398
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0a3041dcda597954782f48ac8a97bf33, type: 3}
       propertyPath: m_LocalPosition.y
@@ -11197,7 +11197,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: 0a3041dcda597954782f48ac8a97bf33, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 44.856
+      value: 45.114
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0a3041dcda597954782f48ac8a97bf33, type: 3}
       propertyPath: m_LocalPosition.y
@@ -11753,7 +11753,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'The Girl inform you that her friend is hidding in the city,
 
-    she beg you to find her too!
+    she asks you to find her too!
 
 
     Well, you know what to do ...'
@@ -12391,7 +12391,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Hello Welcome to this Alpha !
 
-    Your First Mission is to find a way to an exit.
+    Your First Mission is to find a way to exit.
 
     You can Jump with space  and rotate  both view and character with your moose!
 
@@ -16265,7 +16265,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 447262, guid: 61fb7c015a745ea42900f99f6f123343, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 1.2593006
+      value: -0.16
       objectReference: {fileID: 0}
     - target: {fileID: 447262, guid: 61fb7c015a745ea42900f99f6f123343, type: 2}
       propertyPath: m_LocalPosition.z
@@ -16972,11 +16972,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: 0a3041dcda597954782f48ac8a97bf33, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 45.332
+      value: 44.39
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0a3041dcda597954782f48ac8a97bf33, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0a3041dcda597954782f48ac8a97bf33, type: 3}
       propertyPath: m_LocalPosition.z
@@ -22364,6 +22364,7 @@ Transform:
   - {fileID: 1733978950}
   - {fileID: 1643486970}
   - {fileID: 605132197}
+  - {fileID: 1803251203}
   m_Father: {fileID: 1479855275}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -22452,8 +22453,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'The girls Explained you that everybody in the city had disapeared since
-    3 days,
+  m_Text: 'The girls Explain you that everybody in the city had disapeared for 3 days,
 
     and they have been left alone since.
 
@@ -22463,7 +22463,7 @@ MonoBehaviour:
     They want to leave the city now, they are too much afraid to stay there!
 
 
-    Find a safe place where they can leave normally again.'
+    Find a safe place where they can live normally again.'
 --- !u!222 &1515130454
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -23165,15 +23165,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 476338, guid: edc88c1a364a0f342bb498e6e37485eb, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 315.03003
+      value: 314.89
       objectReference: {fileID: 0}
     - target: {fileID: 476338, guid: edc88c1a364a0f342bb498e6e37485eb, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 1.59
+      value: 0.53
       objectReference: {fileID: 0}
     - target: {fileID: 476338, guid: edc88c1a364a0f342bb498e6e37485eb, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 77.26001
+      value: 77.21
       objectReference: {fileID: 0}
     - target: {fileID: 476338, guid: edc88c1a364a0f342bb498e6e37485eb, type: 2}
       propertyPath: m_LocalRotation.x
@@ -26746,6 +26746,68 @@ Transform:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 882e382af7b95854fb262382b9c9d9fa, type: 2}
   m_PrefabInternal: {fileID: 1482855817}
+--- !u!1001 &1803251202
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1503001445}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 473e179608e45bd47bd081ff8e1b9cbb, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -5.36
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 473e179608e45bd47bd081ff8e1b9cbb, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 473e179608e45bd47bd081ff8e1b9cbb, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 179.61841
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 473e179608e45bd47bd081ff8e1b9cbb, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071069
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 473e179608e45bd47bd081ff8e1b9cbb, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 473e179608e45bd47bd081ff8e1b9cbb, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 473e179608e45bd47bd081ff8e1b9cbb, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.70710677
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 473e179608e45bd47bd081ff8e1b9cbb, type: 2}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 473e179608e45bd47bd081ff8e1b9cbb, type: 2}
+      propertyPath: m_Name
+      value: D_Wall Detailed 1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 473e179608e45bd47bd081ff8e1b9cbb, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0.069846034
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 473e179608e45bd47bd081ff8e1b9cbb, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 473e179608e45bd47bd081ff8e1b9cbb, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.2000001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 473e179608e45bd47bd081ff8e1b9cbb, type: 2}
+  m_IsPrefabParent: 0
+--- !u!4 &1803251203 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 400000, guid: 473e179608e45bd47bd081ff8e1b9cbb, type: 2}
+  m_PrefabInternal: {fileID: 1803251202}
 --- !u!1001 &1804946940
 Prefab:
   m_ObjectHideFlags: 0
@@ -27577,6 +27639,24 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0a3041dcda597954782f48ac8a97bf33, type: 3}
   m_IsPrefabParent: 0
+--- !u!1 &1863849787 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100000, guid: 1e5a558e79eeb2045a71c5f092852cf1, type: 3}
+  m_PrefabInternal: {fileID: 1036267015}
+--- !u!64 &1863849788
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1863849787}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Convex: 0
+  m_InflateMesh: 0
+  m_SkinWidth: 0.01
+  m_Mesh: {fileID: 4300000, guid: 1e5a558e79eeb2045a71c5f092852cf1, type: 3}
 --- !u!4 &1873229484 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: af5d2d14895eaed4dae91d06b8ca164f, type: 2}
@@ -29453,6 +29533,24 @@ Transform:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: b3416ccd6174db24b9ef77947396cfd9, type: 2}
   m_PrefabInternal: {fileID: 433498383}
+--- !u!1 &1997598002 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100000, guid: 0a3041dcda597954782f48ac8a97bf33, type: 3}
+  m_PrefabInternal: {fileID: 45398499}
+--- !u!64 &1997598003
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1997598002}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Convex: 0
+  m_InflateMesh: 0
+  m_SkinWidth: 0.01
+  m_Mesh: {fileID: 4300000, guid: 0a3041dcda597954782f48ac8a97bf33, type: 3}
 --- !u!4 &1999095644 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: efc0e098941e6f24c94cb96165713080, type: 2}
@@ -30063,6 +30161,24 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 0a3041dcda597954782f48ac8a97bf33, type: 3}
   m_PrefabInternal: {fileID: 2033132949}
+--- !u!1 &2036046649 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100000, guid: 81ae10d5415799d4db940c6fe498e861, type: 3}
+  m_PrefabInternal: {fileID: 936974151}
+--- !u!64 &2036046650
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2036046649}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Convex: 0
+  m_InflateMesh: 0
+  m_SkinWidth: 0.01
+  m_Mesh: {fileID: 4300000, guid: 81ae10d5415799d4db940c6fe498e861, type: 3}
 --- !u!1 &2041269801
 GameObject:
   m_ObjectHideFlags: 0
@@ -30699,7 +30815,7 @@ GameObject:
   - component: {fileID: 2070661752}
   - component: {fileID: 2070661751}
   m_Layer: 0
-  m_Name: FinalDest (1)
+  m_Name: FinalDest2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
